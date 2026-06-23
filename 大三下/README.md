@@ -3,16 +3,18 @@
 你可以让AI结合知识点生成几套模拟题练练手，在练习的过程当中总结一些易错点最后答完卷子再检查一遍，我反正是最后检查检查出来一个小的偏质写反了
 一个半小时交卷出来，差不多教室里面人已走了四分之三
 文件中的题目，是其他学长用GPT辅助生成的，做一做练练题感不错的。
-复习笔记：https://blog.csdn.net/H13420972436/article/details/161728380?spm=1001.2014.3001.5502
+ - 复习笔记：https://blog.csdn.net/H13420972436/article/details/161728380?spm=1001.2014.3001.5502
+
 2026是尚荣华老师，老师整理的知识图谱好好看，基本覆盖全了
 毕竟是导论课，考察的难度不高，但是要求你的知识点覆盖全面（不记得就是不会）
 
 ## 算法分析与设计
 好好做仓库里的往年题，好好看ppt上例题即可
 四十分钟基本就可以写完了（2026是霍红卫老师）
-复习笔记
+ - 复习笔记
 https://blog.csdn.net/H13420972436/article/details/162121173?sharetype=blogdetail&sharerId=162121173&sharerefer=PC&sharesource=H13420972436&spm=1011.2480.3001.8118
-例题整理
+
+ - 例题整理
 https://blog.csdn.net/H13420972436/article/details/162121173?sharetype=blogdetail&sharerId=162121173&sharerefer=PC&sharesource=H13420972436&spm=1011.2480.3001.8118
 
 PS：
